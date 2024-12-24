@@ -64,8 +64,11 @@ total_emission: Total greenhouse gas emissions from various sources.
 
 Average Temperature °C (target) : The average increase of temperature (by year) in degrees CelsiuS.
 
-In the notebook I will perform:
+In the notebook performed:
 
-Exploratory data analysis: Understand the relationship between Temperature rise and CO2 emmission derriving from the agri-food sector activities. Extensively investigate the relationship amongst an extensive list of agri-food processes CO2 emmisions and average temperature rise. Identify any potential correlations between the agri-food sector emmissions and average temperature increase.
+A) understood the data, data types, missing value count and unique records.
+B) identified and removed missing values if required and imputed missing values as required.
+C) Created new features based on exisitng features.
+D) Performed Univariate and multivariate analysis.
 
-Data Preprocessing: Deal with missing values Split the data in a train, validation and test set Data normalization Feature engineering
+
