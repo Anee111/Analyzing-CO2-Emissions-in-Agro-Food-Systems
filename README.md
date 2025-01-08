@@ -1,4 +1,4 @@
-# Agro-Food-C02-emission_EDA
+# Analyzing CO2 Emissions in Agro-Food Systems
 
 The Dataset includes information about Temperature increase and an extensive list of features that represent the emissions coming from different activities of the agri-food sector. The aim of this project is to investigate the relationship between those features and temperature increase.
 
