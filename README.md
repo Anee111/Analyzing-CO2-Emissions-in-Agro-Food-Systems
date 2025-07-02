@@ -6,6 +6,8 @@ In doing so, an extensive exploratory data analysis will take place, as well as 
 
 Bellow are all the variables included in the dataset:
 
+The values of features represent in Gg Gigagrams ( 1Gg = 1000 metric tonnes)
+
 Savanna fires: Emissions from fires in savanna ecosystems.
 
 Forest fires: Emissions from fires in forested areas.
@@ -20,9 +22,9 @@ Pesticides Manufacturing: Emissions from the production of pesticides.
 
 Food Transport: Emissions from transporting food products.
 
-Forestland: Land covered by forests.
+Forestland: change in forst land( In hectares)
 
-Net Forest conversion: Change in forest area due to deforestation and afforestation.
+Net Forest conversion: Change in forest area due to deforestation and afforestation ( In hectares).
 
 Food Household Consumption: Emissions from food consumption at the household level.
 
